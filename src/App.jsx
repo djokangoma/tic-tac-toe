@@ -1,7 +1,7 @@
-export default function square({ time }) {
+export default function square() {
   return (
     <>
-      <h1> {time} </h1>
+      <h1> </h1>
       <button className="square">x</button>
     </>
   );
